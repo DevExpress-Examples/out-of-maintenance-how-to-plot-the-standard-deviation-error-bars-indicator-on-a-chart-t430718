@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/StandardDeviationErrorBars/Form1.cs) (VB: [Form1.vb](./VB/StandardDeviationErrorBars/Form1.vb))**
+<!-- default file list end -->
 # How to: Plot the Standard Deviation Error Bars indicator on a chart
 
 
